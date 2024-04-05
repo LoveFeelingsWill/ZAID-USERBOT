@@ -72,7 +72,7 @@ Zaid@Debian~ $ screen
 Zaid@Debian~ $ python3 -m Zaid
 ```
 
-## Disclaimer 
+## Disclaimer
 
 
 ```console
